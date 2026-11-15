@@ -4,7 +4,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Nibbles — Snake Arcade',
-  description: 'A little nostalgia. A lot of self-control. Play the classic snake game.'
+  description: 'A little nostalgia. A lot of self-control. Play the classic snake game.',
   generator: 'v0.app',
   icons: {
     icon: [
